@@ -1,0 +1,6 @@
+{
+  "name": "SmartSpend AI – Personal Finance Management System",
+  "description": "An intelligent personal finance dashboard with AI auto-categorization, spending pattern analysis, and personalized saving recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
